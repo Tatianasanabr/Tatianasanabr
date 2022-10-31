@@ -15,6 +15,8 @@ const tatiana = {
  - 🌱 I’m currently learning about JavaScript & English.
  - ✨ Fun fact: There is no better way to live than to live traveling 🛫
 
+### 📲 Contact me
+[![](https://imagizer.imageshack.com/v2/50x32q90/922/fQar8a.png)](https://www.linkedin.com/in/tatiana-sanabria/)
 
 <!--
 **Tatianasanabr/Tatianasanabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
