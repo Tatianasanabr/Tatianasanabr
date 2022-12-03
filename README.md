@@ -11,7 +11,7 @@ const tatiana = {
  }
  ```
  - 👩🏻‍💻 I'm Laboratorian
- - 🔭 I’m currently working on my project [BOG005-md-links/Tatianasanabr](https://github.com/Tatianasanabr/BOG005-md-links).
+ - 🔭 I’m currently working on my project [BOG005-burger-queen-api-client](https://github.com/Tatianasanabr/BOG005-burger-queen-api-client).
  - 🌱 I’m currently learning about JavaScript & English.
  - ✨ Fun fact: There is no better way to live than to live traveling 🛫
 
