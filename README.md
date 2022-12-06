@@ -7,7 +7,7 @@ I'm Tatiana, Front-end Developer from Colombia 🇨🇴
 const tatiana = {
   pronouns: "She" | "Her",
   code: [Javascript, HTML, CSS],
-  tools: [Jest, Firebase, Firestore, Figma, Maze],
+  tools: [React, Jest, Firebase, Firestore, Figma, Maze],
  }
  ```
  - 👩🏻‍💻 I'm Laboratorian
