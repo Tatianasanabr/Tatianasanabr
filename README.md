@@ -1,7 +1,7 @@
 ### Hey, nice to see you! 😎
 
 ¡Welcome to my page!
-I'm Tatiana, Front-end Developer from Colombia 🇨🇴 
+I'm Tatiana, Front-end Developer Jr. from Colombia 🇨🇴 
 
 ```js
 const tatiana = {
