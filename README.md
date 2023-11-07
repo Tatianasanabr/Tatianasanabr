@@ -2,6 +2,7 @@
 
 ¡Welcome to my page!
 I'm Tatiana, Front-end Developer Jr. from Colombia 🇨🇴 
+& I am a student of systems engineering 👩🏻‍💻 
 
 ```js
 const tatiana = {
